@@ -8,9 +8,9 @@ namespace AdapterSample
     {
         static void Main(string[] args)
         {
-            IScoreOperation operation;
-            string adapterType = ConfigurationManager.AppSettings["adapter"];
-            operation = (IScoreOperation)Assembly.Load("AdapterSample").CreateInstance(adapterType);
+            IScoreOperation operation = new OperationAdapter();
+            //string adapterType = ConfigurationManager.AppSettings["adapter"];
+            //operation = (IScoreOperation)Assembly.Load("AdapterSample").CreateInstance(adapterType);
             int[] scores = { 84, 76, 50, 69, 90, 91, 88, 96 };
             int[] result;
             int score;

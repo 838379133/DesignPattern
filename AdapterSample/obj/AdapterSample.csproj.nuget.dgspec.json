@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\DesignPattern\\AdapterSample\\AdapterSample.csproj": {}
+    "E:\\C#\\DesignPattern\\GIT\\AdapterSample\\AdapterSample.csproj": {}
   },
   "projects": {
-    "E:\\C#\\DesignPattern\\AdapterSample\\AdapterSample.csproj": {
+    "E:\\C#\\DesignPattern\\GIT\\AdapterSample\\AdapterSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\DesignPattern\\AdapterSample\\AdapterSample.csproj",
+        "projectUniqueName": "E:\\C#\\DesignPattern\\GIT\\AdapterSample\\AdapterSample.csproj",
         "projectName": "AdapterSample",
-        "projectPath": "E:\\C#\\DesignPattern\\AdapterSample\\AdapterSample.csproj",
+        "projectPath": "E:\\C#\\DesignPattern\\GIT\\AdapterSample\\AdapterSample.csproj",
         "packagesPath": "C:\\Users\\83837\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\DesignPattern\\AdapterSample\\obj\\",
+        "outputPath": "E:\\C#\\DesignPattern\\GIT\\AdapterSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\83837\\AppData\\Roaming\\NuGet\\NuGet.Config",
