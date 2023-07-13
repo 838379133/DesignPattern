@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vZUCYLjzWp9XPg54KyjD71T2bE4F3RLQfQ37o8X28jpUl+ieD3n5QGRwPkrtG49gBW4/rsIh345sTzW69Dlzog==",
+  "dgSpecHash": "6hkj9olWA0VNupKrsEAij2qhK9ScAUg2NgP/zuyomPvb8iqBFNh3Ml+ucF17dX1YVPKoLWJra7fY3QL8iVGJPA==",
   "success": true,
-  "projectFilePath": "E:\\C#\\DesignPattern\\ObserverSample\\ObserverSample.csproj",
+  "projectFilePath": "E:\\C#\\DesignPattern\\GIT\\ObserverSample\\ObserverSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
