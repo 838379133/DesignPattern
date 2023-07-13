@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWSv+7cOihnMhs35TXjj6pivz/ZHsRQLsfpp2sJPo6QJW5/t2FwjjwIkHIaLJT7d+QvNvtBpA/5fJp9Yb82WGg==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\DesignPattern\\AbstractFactorySample\\AbstractFactorySample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\83837\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\83837\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\83837\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\83837\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\83837\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>ef79b5da-d59e-4fe4-aef8-bd102b3a9707</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuilderSample\BuilderSample.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="1.puml" />
+    <None Remove="ClassDiagram2.cd" />
+    <None Remove="ClassDiagram3.cd" />
+    <None Remove="ClassDiagram4.cd" />
+  </ItemGroup>
+
+</Project>
