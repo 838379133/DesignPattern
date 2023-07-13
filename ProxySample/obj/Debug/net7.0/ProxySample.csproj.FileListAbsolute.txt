@@ -1,0 +1,15 @@
+E:\C#\ProxySample\bin\Debug\net7.0\ProxySample.exe
+E:\C#\ProxySample\bin\Debug\net7.0\ProxySample.deps.json
+E:\C#\ProxySample\bin\Debug\net7.0\ProxySample.runtimeconfig.json
+E:\C#\ProxySample\bin\Debug\net7.0\ProxySample.dll
+E:\C#\ProxySample\bin\Debug\net7.0\ProxySample.pdb
+E:\C#\ProxySample\obj\Debug\net7.0\ProxySample.csproj.AssemblyReference.cache
+E:\C#\ProxySample\obj\Debug\net7.0\ProxySample.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ProxySample\obj\Debug\net7.0\ProxySample.AssemblyInfoInputs.cache
+E:\C#\ProxySample\obj\Debug\net7.0\ProxySample.AssemblyInfo.cs
+E:\C#\ProxySample\obj\Debug\net7.0\ProxySample.csproj.CoreCompileInputs.cache
+E:\C#\ProxySample\obj\Debug\net7.0\ProxySample.dll
+E:\C#\ProxySample\obj\Debug\net7.0\refint\ProxySample.dll
+E:\C#\ProxySample\obj\Debug\net7.0\ProxySample.pdb
+E:\C#\ProxySample\obj\Debug\net7.0\ProxySample.genruntimeconfig.cache
+E:\C#\ProxySample\obj\Debug\net7.0\ref\ProxySample.dll

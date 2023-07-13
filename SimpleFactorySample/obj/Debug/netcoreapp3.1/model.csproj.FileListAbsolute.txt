@@ -1,0 +1,13 @@
+E:\C#\model\bin\Debug\netcoreapp3.1\model.exe
+E:\C#\model\bin\Debug\netcoreapp3.1\model.deps.json
+E:\C#\model\bin\Debug\netcoreapp3.1\model.runtimeconfig.json
+E:\C#\model\bin\Debug\netcoreapp3.1\model.runtimeconfig.dev.json
+E:\C#\model\bin\Debug\netcoreapp3.1\model.dll
+E:\C#\model\bin\Debug\netcoreapp3.1\model.pdb
+E:\C#\model\obj\Debug\netcoreapp3.1\model.csprojAssemblyReference.cache
+E:\C#\model\obj\Debug\netcoreapp3.1\model.AssemblyInfoInputs.cache
+E:\C#\model\obj\Debug\netcoreapp3.1\model.AssemblyInfo.cs
+E:\C#\model\obj\Debug\netcoreapp3.1\model.dll
+E:\C#\model\obj\Debug\netcoreapp3.1\model.pdb
+E:\C#\model\obj\Debug\netcoreapp3.1\model.genruntimeconfig.cache
+E:\C#\model\bin\Debug\netcoreapp3.1\model.dll.config
