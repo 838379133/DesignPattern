@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\DesignPattern\\ObserverSample\\ObserverSample.csproj": {}
+    "E:\\C#\\DesignPattern\\GIT\\ObserverSample\\ObserverSample.csproj": {}
   },
   "projects": {
-    "E:\\C#\\DesignPattern\\ObserverSample\\ObserverSample.csproj": {
+    "E:\\C#\\DesignPattern\\GIT\\ObserverSample\\ObserverSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\DesignPattern\\ObserverSample\\ObserverSample.csproj",
+        "projectUniqueName": "E:\\C#\\DesignPattern\\GIT\\ObserverSample\\ObserverSample.csproj",
         "projectName": "ObserverSample",
-        "projectPath": "E:\\C#\\DesignPattern\\ObserverSample\\ObserverSample.csproj",
+        "projectPath": "E:\\C#\\DesignPattern\\GIT\\ObserverSample\\ObserverSample.csproj",
         "packagesPath": "C:\\Users\\83837\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\DesignPattern\\ObserverSample\\obj\\",
+        "outputPath": "E:\\C#\\DesignPattern\\GIT\\ObserverSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\83837\\AppData\\Roaming\\NuGet\\NuGet.Config",
